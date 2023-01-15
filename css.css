@@ -1,0 +1,80 @@
+/* CSS for styling the website */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 1em;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 2em;
+  }
+  
+  .hero h1 {
+    margin-bottom: 0.5em;
+  }
+  
+  .cta {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5em 1em;
+    border-radius: 4px;
+  }
+  
+  .featured-products {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .featured-products
+
+  .featured-products li {
+    width: 33.33%;
+    text-align: center;
+    padding: 2em;
+  }
+  
+  .featured-products img {
+    width: 100%;
+    max-width: 200px;
+    margin-bottom: 1em;
+  }
+  
+  .featured-products h3 {
+    margin-bottom: 0.5em;
+  }
+  
+  .featured-products a {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5em 1em;
+    border-radius: 4px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+  }
+  
